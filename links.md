@@ -11,3 +11,4 @@ Once you have created your Web presence, add a link to it here.
 * Baratta, Toby '17 <http://www.cs.grinnell.edu/~barattat17/home.html>
 * Hardt: <http://www.cs.grinnell.edu/~hardtmad/home.html>
 * Zahid, Samee '17 <http://www.cs.grinnell.edu/~zahidmuh17/homepage.html>
+* Knoebber '17 <http://www.cs.grinnell.edu/~knoebber17/csc195.html>
