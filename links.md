@@ -15,3 +15,4 @@ Once you have created your Web presence, add a link to it here.
 * Creasey, W. Blake '16 http://www.cs.grinnell.edu/~creaseyw/example.html>
 * Stevens, Abby '14 <http://www.cs.grinnell.edu/~stevensa1/me.html>
 * Greenberg, Alex '16 <http://www.cs.grinnell.edu/~greenber/sundays.html>
+*Freger, Halley '17 <http://www.cs.grinnell.edu/~fregerha17/html-examples/example.html>
