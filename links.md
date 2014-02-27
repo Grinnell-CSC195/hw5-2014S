@@ -8,3 +8,4 @@ Once you have created your Web presence, add a link to it here.
 * Hanson '17: <http://www.cs.grinnell.edu/~hansonse17/profile.html>
 * Oyolu '17: <http://www.cs.grinnell.edu/~oyolulin17/lPage.html>
 * Mitchell '17 <http://www.cs.grinnell.edu/~mitchell17>
+* Baratta, Toby '17 <http://www.cs.grinnell.edu/~barattat17/home.html>
