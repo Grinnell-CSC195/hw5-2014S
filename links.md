@@ -23,4 +23,5 @@ Once you have created your Web presence, add a link to it here.
 * Kittaneh, Yazan '17 <http://www.cs.grinnell.edu/~kittaneh17/Home.html>
 * Elias Mulhall '16 <http://www.cs.grinnell.edu/~mulhalle>
 * Ezra Edgerton '16 <http://www.cs.grinnell.edu/~edgerton/website.html>
+* Noah Schlager '16 http://www.cs.grinnell.edu/~schlager/schlager.html
 >>>>>>> 782428c3347bb5b09796d86ab1bd56e19c6af5e9
