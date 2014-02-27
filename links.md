@@ -8,7 +8,7 @@ Once you have created your Web presence, add a link to it here.
 * Hanson '17: <http://www.cs.grinnell.edu/~hansonse17/profile.html>
 * Oyolu '17: <http://www.cs.grinnell.edu/~oyolulin17/lPage.html>
 * Mitchell '17 <http://www.cs.grinnell.edu/~mitchell17>
-* Boateng Asante, Larry <http://www.cs.grinnell.edu/~projectLarry.html>
+* Boateng Asante, Larry <http://www.cs.grinnell.edu/~boatenga17/projectLarry.html>
 * Baratta, Toby '17 <http://www.cs.grinnell.edu/~barattat17/>
 * Hardt: <http://www.cs.grinnell.edu/~hardtmad/home.html>
 * Zahid, Samee '17 <http://www.cs.grinnell.edu/~zahidmuh17/homepage.html>
