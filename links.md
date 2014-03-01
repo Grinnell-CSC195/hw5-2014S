@@ -25,3 +25,4 @@ Once you have created your Web presence, add a link to it here.
 * Ezra Edgerton '16 <http://www.cs.grinnell.edu/~edgerton/website.html>
 * Noah Schlager '16 http://www.cs.grinnell.edu/~schlager/schlager.html
 * Zoe Wolter '16 <http://www.cs.grinnell.edu/~wolterzo/html-examples/portfolio.html>
+* Eve Lyons-Berg '17 <http://www.cs.grinnell.edu/~lyonsber17/elyonsberg.html>
