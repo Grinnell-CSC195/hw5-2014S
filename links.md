@@ -26,4 +26,4 @@ Once you have created your Web presence, add a link to it here.
 * Noah Schlager '16 http://www.cs.grinnell.edu/~schlager/schlager.html
 * Zoe Wolter '16 <http://www.cs.grinnell.edu/~wolterzo/html-examples/portfolio.html>
 * Eve Lyons-Berg '17 <http://www.cs.grinnell.edu/~lyonsber17/elyonsberg.html>
-* Shaun S. Mataire '16 <http://www.cs.grinnell.edu/~matairesl>
+* Shaun S. Mataire '16 <http://www.cs.grinnell.edu/~mataires>
